@@ -19,7 +19,7 @@ if (isset($_GET["token"])) {
         echo '<meta charset="UTF - 8">';
         echo '<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
           integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">';
-        echo '<link rel = "stylesheet" href = "style.css" >';
+        echo '<link rel = "stylesheet" href = "css/style.css" >';
         echo '</head >';
         echo "<hr>";
         echo "<p style='color: white; display: inline'>Your account has been activated. Please </p><a href='login.php'>LOGIN</a>";
